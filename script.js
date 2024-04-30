@@ -27,7 +27,8 @@ class Teacher extends Person {
 		
 	
 }
-
+student s1("Ayush",21);
+console.log(s1.study());
 // Do not change the code below this line
 window.Person = Person;
 window.Student = Student;
